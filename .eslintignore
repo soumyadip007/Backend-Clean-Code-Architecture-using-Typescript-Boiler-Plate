@@ -1,0 +1,4 @@
+dist
+node_modules
+init-mongo.js
+mongo-volume
